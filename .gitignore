@@ -1,0 +1,15 @@
+# Python virtual environment
+manchine/env/
+env/
+venv/
+__pycache__/
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+build/
+dist/
